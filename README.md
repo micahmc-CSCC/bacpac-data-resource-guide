@@ -101,12 +101,6 @@ The BEST Trial was the primary collaborative clinical trial conducted within the
 
 Links to BEST Trial repositories, documentation, publications, and data resources will be added as they become publicly available.
 
-**Planned resources:**
-
-- Study documentation
-- Dataset descriptions
-- Analysis resources and tools
-
 ## Glossary
 
 | Term | Definition |
